@@ -1,5 +1,7 @@
 # Jogger3
 
+Note: This project was uploaded in 2019 for showcasing purposes, no git was used in high school, and the project was last edited in 2017.
+
 IB Computer Science Internal Assessment 2017.
 My first big project.
 All linked data structures and algorithms are written by me. 
