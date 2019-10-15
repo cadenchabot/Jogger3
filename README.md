@@ -18,3 +18,5 @@ High scores are calculated based on difficulty, progress and time taken.
 Difficulty changes the time limit and the speed of the cars and logs.
 
 The exe is included to play the game.
+
+![](jogger.png)
