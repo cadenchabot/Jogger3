@@ -1,13 +1,13 @@
 # Jogger3
 
-Note: This project was uploaded in 2019 for showcasing purposes, no git was used in high school, and the project was last edited in 2017.
-
 IB Computer Science Internal Assessment 2017.
 My first big project.
 All linked data structures and algorithms are written by me. 
 
 Frogger Style game written in C#.
 I used Visual Studio's designer for the majority of the GUI work.
+
+![](Resources/Jogger.png)
 
 The player has to reach each of the houses at the top of the screen as fast as possible, while avoiding cars and using logs to get out of the water. If you run out of lives or time, the game is over.
 
@@ -19,4 +19,4 @@ Difficulty changes the time limit and the speed of the cars and logs.
 
 The exe is included to play the game.
 
-![](Resources/Jogger.png)
+
